@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: iTag2.0
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: TechmileagePC
+Implementation-Vendor-Id: com.amex.itag
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/iTag2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
